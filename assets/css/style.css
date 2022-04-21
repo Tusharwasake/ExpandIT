@@ -1194,4 +1194,8 @@ section {
     text-align-last: center;
     padding: 3px 0;
   }
+
+  .tf-v1-widget-fullscreen{
+    position: relative !important;
+  }
 }
